@@ -36,7 +36,7 @@ Este projeto cria uma aplicação de login de usuário usando PySide2 (Qt for Py
 2. **Iniciando o APP:**
    - Entre no diretório `CODIGO` e execute com o comando:
    ```bash
-   python CODIGO.py
+   python main.py
    ```
 
 3. **Interagindo com o Aplicativo**:
