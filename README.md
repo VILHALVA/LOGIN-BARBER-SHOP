@@ -27,10 +27,10 @@ Este projeto cria uma aplicação de login de usuário usando PySide2 (Qt for Py
 
 ## EXECUTANDO O PROJETO: 
 1. **Instalação:**
-   Certifique-se de ter Pyside2 instalado:
+   - Entre no diretório `CODIGO` e execute o comando:
 
    ```bash
-   pip install PySide2
+   pip install -r requirements.txt
    ```
 
 2. **Iniciando o APP:**
